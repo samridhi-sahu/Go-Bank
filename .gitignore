@@ -1,0 +1,3 @@
+local.env
+*.exe
+Makefile
